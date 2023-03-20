@@ -1,3 +1,5 @@
+Taken from here - https://github.com/webdoctorgroup/interview-screeners/tree/master/nua-messaging
+
 Please find attached a repo containing a Rails application. The application currently just displays a message which a patient has received after applying for a treatment.
 
 The application comes packaged with the following models:
